@@ -204,3 +204,4 @@ if __name__ == "__main__":
         db = sqlite3.connect('registration.db')
         cur = db.cursor()
         main_func()
+

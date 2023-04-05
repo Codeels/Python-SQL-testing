@@ -95,3 +95,4 @@ if __name__ == "__main__":
     except ValueError:
         print('Вы ввели неправильное значение')
         exit()
+
